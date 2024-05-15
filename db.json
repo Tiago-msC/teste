@@ -1,3 +1,5 @@
 {
-    "autorizado": false
+    "acesso": {
+        "autorizado": false
+    }
 }
