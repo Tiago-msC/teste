@@ -1,5 +1,28 @@
 {
     "acesso": {
         "permitido": true
+    },
+    "mock": {
+        "success": true,
+        "data": {
+            "reports": {
+                "visualizacao": "RELATORIO_AVANCADO_PJ",
+                "registro": {
+                    "cnpjcompania": "03518732000166",
+                    "nomecompania": "HYUNDAI CAOA DO BRASIL LTDA",
+                    "endereco": {
+                        "logradouto": "AV IBIRAPUERA 2822 ANDAR 1 SALA",
+                        "cep": "4028002",
+                        "bairro": "INDIANOPOLIS",
+                        "cidade": "SAO PAULO",
+                        "estado": "SP"
+                    },
+                    "telefone": {
+                        "ddd": "11",
+                        "numero": "55381501"
+                    }
+                }
+            }
+        }
     }
 }
