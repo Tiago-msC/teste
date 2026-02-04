@@ -1,6 +1,7 @@
 {
     "acesso": {
-        "permitido": false
+        "permitido": false,
+        "permitido1": true
     },
     "mock": {
         "success": true,
